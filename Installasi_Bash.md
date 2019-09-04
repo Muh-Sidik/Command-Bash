@@ -11,7 +11,7 @@ kumpulan script bash untuk linux
 
 4.cd ~
 
-5.echo 'export PATH="$PATH:/directory_folder/Kumpulan_bash"' >> .bashrc
+5.echo 'export PATH="$PATH:/directory_folder/folder_bash"' >> .bashrc
 
 6.source .bashrc
 
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=K3wtjZlyklY
 sumber dari Albdullah Ibnu Hibban
 github: https://github.com/AIbnuHIbban
 
-note: "nama file ada perintah bashnya untuk di eksekusi dalam linux"
+note: "nama file adaalah perintah bashnya untuk di eksekusi dalam linux"
 
 note: "isi file dapat diganti sesuai keinginan"
 
