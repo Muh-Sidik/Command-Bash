@@ -4,10 +4,15 @@ kumpulan script bash untuk linux
 #Installasi
 
 1.cd directory_folder Sesuai keinginnan
+
 2.git clone https://github.com/muhammad-sidik/Command-Bash.git
+
 3.sudo chmod 755 Kumpulan_bash -R
+
 4.cd ~
+
 5.echo 'export PATH="$PATH:/directory_folder/Kumpulan_bash"' >> .bashrc
+
 6.source .bashrc
 
 #Video
