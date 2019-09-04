@@ -23,5 +23,6 @@ sumber dari Albdullah Ibnu Hibban
 github: https://github.com/AIbnuHIbban
 
 note: "nama file ada perintah bashnya untuk di eksekusi dalam linux"
+
 note: "isi file dapat diganti sesuai keinginan"
 
